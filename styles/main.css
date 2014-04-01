@@ -7,5 +7,16 @@
 }
 
 .darkestBG {
-	background-color: #666;
+	background-color: #666666;
 }
+
+header nav div div .Maroil {
+	font-family: FORTE;
+	color: red;
+	font-size: 40px;
+}
+/*
+@font-face {
+	font-family: FORTE;
+	src: url(styles/FORTE.TFF);
+}*/
